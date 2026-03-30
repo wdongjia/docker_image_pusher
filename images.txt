@@ -4,3 +4,5 @@ mysql:5.7.28
 python:2.7-slim
 redis:5.0
 ubuntu:18.04
+node:18-alpine
+python:3.11-slim
